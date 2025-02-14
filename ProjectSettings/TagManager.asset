@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bonus
+  - Enemy
+  - Key
+  - Heart
+  - FallLevel
+  - MovingPlatform
+  - Menu
+  - Box
+  - Chest
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 352641741
+    locked: 0
+  - name: BackG
+    uniqueID: 1610657141
+    locked: 0
+  - name: Tilemap
+    uniqueID: 3638303119
+    locked: 0
+  - name: Props
+    uniqueID: 3092731607
+    locked: 0
+  - name: Platforms
+    uniqueID: 243770209
+    locked: 0
+  - name: Bonusy
+    uniqueID: 1292324119
+    locked: 0
+  - name: Player and Enemies
+    uniqueID: 1518890329
+    locked: 0
+  - name: Foreground
+    uniqueID: 1593855715
+    locked: 0
